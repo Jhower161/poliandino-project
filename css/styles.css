@@ -2,3 +2,25 @@ body {
     margin: 0%;
     padding: 0%;
 }
+
+.github-image {
+    height: 20px;
+}
+
+.sponsor-image {
+    height: 100px;
+}
+
+.title {
+    text-align: center;
+}
+
+.sponsor-container {
+    height: 200px;
+    width: 100%;
+    flex-direction: row;
+    box-sizing: border-box;
+    display: flex;
+    place-content: center space-around;
+    align-items: center;
+}
